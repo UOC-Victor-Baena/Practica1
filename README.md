@@ -3,6 +3,7 @@
 ### Noms dels components del grup
 
 Victor Baena Chamizo
+
 Arnau Muns Orenga
 
 ### Descripció dels fitxers d'aquest repositori
